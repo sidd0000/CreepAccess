@@ -1,0 +1,9 @@
+.List{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif ;
+    box-shadow: 2px 2px 2px darkgray;
+    display: flex;
+    padding:12px;
+
+
+}
